@@ -20,7 +20,7 @@ In short, we want to have more professional, respectful and inclusive discussion
 
 ## Details
 
-*We intend to apply these conditions to any and all standards discussions in which Chrome team members participate, and expect everyone participating to meet these standards, regardless of whether they work for Google. If any behaviors do not meet these standards, we plan to call them out. If violations persistently fail to be corrected, we will cease participation in the discussion, and will not consider the discussion points raised during that violation.  Our own teams are also expected to adhere to these standards of behavior, and be open to working together to improve.*
+*We intend to apply these conditions to any and all standards discussions in which Chrome team members participate, and expect everyone participating to meet these standards, regardless of whether they work for Google. If any behaviors do not meet these standards, we plan to call them out, and we would expect them to call us out if our behavior does not meet these standards. If violations persistently fail to be corrected, we will cease participation in the discussion, and will not consider the discussion points raised during that violation.  Our own teams are also expected to adhere to these standards of behavior, and be open to working together to improve.*
 
 The conditions are:
 1. Adhere to the Code of Conduct for the relevant standards body (e.g. the W3C’s [CEPC](https://www.w3.org/Consortium/cepc/))
