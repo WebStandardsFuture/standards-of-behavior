@@ -16,7 +16,7 @@ This document outlines guidelines that we believe are necessary to encourage con
 
 *In particular, we on the Chrome team will enforce these expectations for our own team members, and Chrome team members will be encouraged to exit discussions that persistently fail to adhere to these expectations.  If violations persistently fail to be corrected, we will cease participation in the discussions until they are corrected.*
 
-In short, we want to have more professional, respectful and inclusive discussions.  Codes of conduct have not been consistently applied, and we should all expect them to be - we all have a responsibility to ensure safe, respectful venues.  If any behaviors do not meet these standards, we plan to call them out.  If Googlers are failing to live up to these goals, we will provide support to correct that.  For both of these purposes, we have established an external alias to ask for help: the web standards team ombuds ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)). 
+In short, we want to have more professional, respectful and inclusive discussions.  Codes of conduct have not been consistently applied, and we should all expect them to be - we all have a responsibility to ensure safe, respectful venues.  If any behaviors do not meet these standards, we plan to call them out.  If Googlers are failing to live up to these goals, we will provide support to correct that.  We want to hear about it and make it better.  For both of these purposes, we have established an external alias to ask for help: the web standards team ombuds ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)). 
 
 ## Details
 
