@@ -125,4 +125,5 @@ These kinds of phrases are symptomatic of a brick wall response; you should like
 The undersigned agree with this policy.  Feel free to add yourself via PR.
 
   * The Chrome team (contacts: Chris Wilson, Chris Harrelson, Jeffrey Yasskin)
+  * [Mike Taylor](https://github.com/miketaylr)
   * You?
