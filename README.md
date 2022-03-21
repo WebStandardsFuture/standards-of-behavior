@@ -59,7 +59,7 @@ A: If you feel comfortable, try to address the behavior in the discussion: try a
 
 ### Q: What should I do if I feel this policy is being violated by a Googler?
 
-A: Of course, start with the above - if you are comfortable, raise the issue directly like any other.  If this does not work, or you are seeing a repeating pattern, or for any other reason, you can raise the issue with the web standards team ombuds at Google ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)).
+A: Of course, start with the above - if you are comfortable, raise the issue directly like any other.  If this does not work, or you are seeing a repeating pattern, or for any other reason, you can raise the issue with the web standards team ombuds at Google ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)).  (This function is currently performed by Chris Wilson and Jeffrey Yasskin; we are seeking other Googlers to assist in providing a diverse set of ombuds.)
 
 
 ### Q: Doesn’t this mean Chrome is trying to dictate how everyone else behaves in standards discussions? Why is that fair? 
