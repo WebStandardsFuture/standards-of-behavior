@@ -37,12 +37,12 @@ A standards discussion is a technical discussion for the purpose of designing an
 
 ### Q: What are some examples of golden rule A? (Recognize the validity of others’ points of view) 
 
-A: If someone thinks P is more important than Q and you think Q is more important than P, recognize that their prioritization may be valid in their view, and try to understand their chain of reasoning. If someone thinks X needs to be fixed before consensus, try your best to fix X, or come up with constructive (see rule C) reasons why that is difficult, or simpler alternatives that may satisfy the same need.
+A: If someone thinks P is more important than Q and you think Q is more important than P, recognize that their prioritization may be valid (particularly from their perspective), and try to understand their chain of reasoning. If someone thinks X needs to be fixed before consensus, try your best to fix X, or come up with constructive (see rule C) reasons why that is difficult, or simpler alternatives that may satisfy the same need.
 
 
 ### Q: What are some examples of golden rule B? (Don’t assume, ask instead) 
 
-A: Don’t make assumptions about what others say that they did not explicitly state. Instead, ask questions to help clarify. For example, rather than assuming X means Y, ask: “when you said X is not a problem, are you also saying that Y is not a problem?” or “I’m not sure why you think X is an important problem, is there a use case I’m not considering?”  Also understand that a common anti-pattern is “Well, since you agree with V, obviously you must agree with W.” When V and W are not absolutely and directly related, this is a form of unfounded assumption.  Ask instead - “I think W follows from V, which I think you agree with.  Do you agree?” 
+A: Don’t make assumptions about what others think that they did not explicitly state. Instead, ask questions to help clarify. For example, rather than assuming X means Y, ask: “when you said X is not a problem, are you also saying that Y is not a problem?” or “Can you tell me more about why you believe X is an important problem?  Is there a use case I’m not considering?”  Also understand that a common anti-pattern is “Well, since you agree with V, obviously you must agree with W.” When V and W are not absolutely and directly related, this is a form of unfounded assumption.  Ask instead - “I think W follows from V, which I think you agree with.  Do you agree?” 
 
 
 ### Q: What are some examples of golden rule C? (Take actions that are constructive, and move towards consensus when possible) 
@@ -52,9 +52,9 @@ A: If your proposal and another both have merit, then try to objectively review 
 
 ### Q: What should I do if the discussion is not respectful or constructive?
 
-A: If you feel comfortable, try to address the behavior in the discussion: try addressing  problematic behavior by explaining their misstep with compassion and patience (*), rather than simply calling out the behavior aggressively; give an opportunity for the behavior to be addressed, ideally in a way that helps everyone save face. If it is not fixed or acknowledged, or you do not feel comfortable raising the concern directly, disengage with the discussion, and escalate the issue to the next level you feel safe - to the relevant Working Group or Community Group chair, for example, or the W3C Staff contact or similar staffer.  (If either side of the disagreement works at Alphabet, you can email web-standards-ombuds@ to ask for assistance.)  
+A: It is important to call out that best practice is to "admonish in private, praise in public."  If you feel comfortable, try to address the behavior in the discussion: try addressing  problematic behavior by explaining their misstep with compassion and patience (\*), rather than simply calling out the behavior aggressively; give an opportunity for the behavior to be addressed, ideally in a way that helps everyone save face. If you must admonish someone for their behavior, it is best to do it privately rather than in front of others.  If it is not fixed or acknowledged, or you do not feel comfortable raising the concern directly, disengage with the discussion, and escalate the issue to the next level you feel safe - to the relevant Working Group or Community Group chair, for example, or the W3C Staff contact or similar staffer.  (If either side of the disagreement works at Alphabet, you can email web-standards-ombuds@ to ask for assistance.)  
 
-(*) For example: “This comment is not constructive/does not help us work toward consensus/makes an incorrect assumption/is not actionable.  Could you please re-state or rephrase your comments accordingly?”
+(\*) For example: “This comment is not constructive/does not help us work toward consensus/makes an incorrect assumption/is not actionable.  Could you please re-state or rephrase your comments accordingly?”
 
 
 ### Q: What should I do if I feel this policy is being violated by a Googler?
