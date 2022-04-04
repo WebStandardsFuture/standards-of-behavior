@@ -4,7 +4,9 @@
 
 We believe the development of successful, open standards for the web platform requires **_safe, inclusive and productive_** venues for discussion. In particular, standards discourse must include and be respectful of diverse perspectives.  At all times, our interactions should be respectful, professional and constructive.
 
-This document outlines guidelines that we believe are necessary to encourage constructive conversation, and ensure safety and inclusiveness for all involved.  This is not an attempt to rewrite Codes of Conduct in venues; we are just indicating that we expect organizations to abide by their Codes of Conduct.  We can have better, more inclusive outcomes for all if we improve the processes and interactions in standards groups.  This is a standard of behavior we (the Chrome team) expect of ourselves, as well as of others, in our interactions in standards venues. We welcome input in refining these expectations of behavior, and expect to call out violations of these expectations as counter-productive (including if it is Chrome team members failing to meet these expectations).  
+This document outlines guidelines that we believe are necessary to encourage constructive conversation, and ensure safety and inclusiveness for all involved.  This is not an attempt to rewrite Codes of Conduct in venues; we are just indicating that we expect organizations to abide by their Codes of Conduct.  We can have better, more inclusive outcomes for all if we improve the processes and interactions in standards groups.  
+
+>*This is a standard of behavior we (the Chrome team) expect of ourselves, as well as of others, in our interactions in standards venues. We welcome input in refining these expectations of behavior, and expect to call out violations of these expectations as counter-productive (including if it is Chrome team members failing to meet these expectations).  
 
 **We believe**:
 
@@ -14,9 +16,11 @@ This document outlines guidelines that we believe are necessary to encourage con
     * Don’t assume, ask for confirmation instead
     * Take actions that are constructive, and move towards consensus when possible
 
-*In particular, we on the Chrome team will enforce these expectations for our own team members, and Chrome team members will be encouraged to exit discussions that persistently fail to adhere to these expectations.  If violations persistently fail to be corrected, we will cease participation in the discussions until they are corrected.*
+>*In particular, we on the Chrome team will enforce these expectations for our own team members, and Chrome team members will be encouraged to exit discussions that persistently fail to adhere to these expectations.  If violations persistently fail to be corrected, we will cease participation in the discussions until they are corrected.*
 
-In short, we want to have more professional, respectful and inclusive discussions.  Codes of conduct have not been consistently applied, and we should all expect them to be - we all have a responsibility to ensure safe, respectful venues.  If any behaviors do not meet these standards, we plan to call them out.  If Googlers are failing to live up to these goals, we will provide support to correct that.  We want to hear about it and make it better.  For both of these purposes, we have established an external alias to ask for help: the web standards team ombuds ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)). 
+In short, we want to have more professional, respectful and inclusive discussions.  Codes of conduct have not been consistently applied, and we should all expect them to be - we all have a responsibility to ensure safe, respectful venues.  If any behaviors do not meet these standards, we plan to call them out, and we expect to be asked to improve in turn if we fail to live up to these standards.  
+
+>*If Googlers are failing to live up to these goals, we will provide support to correct that.  We want to hear about it and make it better.  For both of these purposes, we have established an external alias to ask for help: the web standards team ombuds ([web-standards-ombuds@google.com](mailto:web-standards-ombuds@google.com)). *
 
 ## Details
 
@@ -64,7 +68,7 @@ A: Of course, start with the above - if you are comfortable, raise the issue dir
 
 ### Q: Doesn’t this mean Chrome is trying to dictate how everyone else behaves in standards discussions? Why is that fair? 
 
-A: It **does not** mean that Chrome dictates everyone’s behavior. It **does** mean that Chrome holds its own team members accountable to this standard. It **also** means that Chrome isn't willing to ask our team members to participate in discussions that persistently do not meet the standards described here; we believe Chrome team members deserve safety and inclusion, too.
+A: This **does not** mean that Chrome dictates everyone’s behavior. It **does** mean that the Chrome team plans to holds its own team members accountable to this standard. It **also** means that Chrome isn't willing to ask our team members to participate in discussions that persistently do not meet the standards described here; we believe Chrome team members deserve safety and inclusion, too.
 
 We are open to discussion and stewardship of these guidelines as well. Where appropriate, we think it would be great for these standards of behavior to be integrated into the codes of conduct for standards bodies.
 
@@ -86,11 +90,11 @@ A: There is a pattern of interaction that fails to recognize the time/opportunit
 
 ### Q: What about accusations of hypocrisy? 
 
-A: Fundamentally, an accusation of hypocrisy is a form of personal or group attack. (*) It’s almost never an honest critique of the quality of logical reasoning on the part of the other party. One of the most common forms of accusations of hypocrisy in standards is to say that your position on question A is inconsistent with “your organization’s positions” for other questions B or C. This accusation is not ok for multiple reasons, but first let’s note that it violates golden rules 2a, 2b **and** 2c! In particular, by conflating you with your organization, it does not recognize fully the validity of your points of view, and also assumes such conflation rather than asking. Finally, it’s of course not constructive.
+A: Fundamentally, an accusation of hypocrisy is a form of personal or group attack. (\*) It’s almost never an honest critique of the quality of logical reasoning on the part of the other party. One of the most common forms of accusations of hypocrisy in standards is to say that your position on question A is inconsistent with “your organization’s positions” for other questions B or C. This accusation is not ok for multiple reasons, but first let’s note that it violates golden rules 2a, 2b **and** 2c! In particular, by conflating you with your organization, it does not recognize fully the validity of your points of view, and also assumes such conflation rather than asking. Finally, it’s of course not constructive.
 
 A good response to such accusations is to simply state that it’s not constructive to say such things in generalities, remind them that organizations are inherently complex and do not speak with a “single, coherent voice”, and that you do not presume any control over others and are just trying to figure out question A. Then follow up by asking them to instead focus on concrete aspects of question A rather than un-actionable generalities.
 
-(*) Wikipedia has an [interesting article about personal attacks](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) in the context of the Wikipedia discussion and comments system.
+(\*) Wikipedia has an [interesting article about personal attacks](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) in the context of the Wikipedia discussion and comments system.
 
 
 ### Q: How do I respectfully disengage? 
