@@ -14,7 +14,9 @@ This document outlines guidelines that we believe are necessary to encourage con
 * Participants should follow some simple **golden rules for standards discourse**
     * Be respectful, and recognize the validity of others’ points of view
     * Don’t assume, ask for confirmation instead
+    * Look for (and communicate) basic requirements, clear use cases and problem statements
     * Take actions that are constructive, and move towards consensus when possible
+    * Take responsibility for your own words, work to reduce hostility, and be intentionally welcoming and inclusive
 
 >*In particular, we on the Chrome team will enforce these expectations for our own team members, and Chrome team members will be encouraged to exit discussions that persistently fail to adhere to these expectations.  If violations persistently fail to be corrected, we will cease participation in the discussions until they are corrected.*
 
@@ -29,9 +31,11 @@ In short, we want to have more professional, respectful and inclusive discussion
 The conditions are:
 1. Adhere to the Code of Conduct for the relevant standards body (e.g. the W3C’s [CEPC](https://www.w3.org/Consortium/cepc/) or the IETF's [BCP 54](https://www.rfc-editor.org/rfc/rfc7154.html))
 2. Adhere to the **golden rules for standards discourse**:
-    1. Recognize the validity of others’ points of view
+    1. Be respectful, and recognize the validity of others’ points of view
     2. Don’t assume, ask for confirmation instead
-    3. Take actions that are constructive, and move towards consensus when possible
+    3. Look for (and communicate) basic requirements, clear use cases and problem statements
+    4. Take actions that are constructive, and move towards consensus when possible
+    5. Take responsibility for your own words, work to reduce hostility, and be intentionally welcoming and inclusive
 
 ## What is a standards discussion?
 
