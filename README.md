@@ -126,7 +126,7 @@ These kinds of phrases are symptomatic of a brick wall response; you should like
 
 ## Related work
 
-[WebAssembly Constructive CG Discussions](https://github.com/WebAssembly/meetings/blob/main/process/discussion.md) (credit to Deepti Gandluri)
+[WebAssembly Constructive CG Discussions](https://github.com/WebAssembly/meetings/blob/main/process/discussion.md) (credit to Deepti Gandluri and Thomas Lively)
 
 ## Co-signed
 
