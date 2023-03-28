@@ -31,11 +31,13 @@ In short, we want to have more professional, respectful and inclusive discussion
 The conditions are:
 1. Adhere to the Code of Conduct for the relevant standards body (e.g. the W3C’s [CEPC](https://www.w3.org/Consortium/cepc/) or the IETF's [BCP 54](https://www.rfc-editor.org/rfc/rfc7154.html))
 2. Adhere to the **golden rules for standards discourse**:
-    1. Be respectful, and recognize the validity of others’ points of view
-    2. Don’t assume, ask for confirmation instead
-    3. Look for (and communicate) basic requirements, clear use cases and problem statements
-    4. Take actions that are constructive, and move towards consensus when possible
-    5. Take responsibility for your own words, work to reduce hostility, and be intentionally welcoming and inclusive
+    <ol type="A">
+    <li>Be respectful, and recognize the validity of others’ points of view
+    <li>Don’t assume, ask for confirmation instead
+    <li>Look for (and communicate) basic requirements, clear use cases and problem statements
+    <li>Take actions that are constructive, and move towards consensus when possible
+    <li>Take responsibility for your own words, work to reduce hostility, and be intentionally welcoming and inclusive
+    </ol>
 
 ## What is a standards discussion?
 
@@ -94,7 +96,7 @@ A: There is a pattern of interaction that fails to recognize the time/opportunit
 
 ### Q: What about accusations of hypocrisy?
 
-A: Fundamentally, an accusation of hypocrisy is a form of personal or group attack. (\*) It’s almost never an honest critique of the quality of logical reasoning on the part of the other party. One of the most common forms of accusations of hypocrisy in standards is to say that your position on question A is inconsistent with “your organization’s positions” for other questions B or C. This accusation is not ok for multiple reasons, but first let’s note that it violates golden rules 2a, 2b **and** 2c! In particular, by conflating you with your organization, it does not recognize fully the validity of your points of view, and also assumes such conflation rather than asking. Finally, it’s of course not constructive.
+A: Fundamentally, an accusation of hypocrisy is a form of personal or group attack. (\*) It’s almost never an honest critique of the quality of logical reasoning on the part of the other party. One of the most common forms of accusations of hypocrisy in standards is to say that your position on question A is inconsistent with “your organization’s positions” for other questions B or C. This accusation is not ok for multiple reasons, but first let’s note that it violates golden rules 2A, 2B **and** 2C! In particular, by conflating you with your organization, it does not recognize fully the validity of your points of view, and also assumes such conflation rather than asking. Finally, it’s of course not constructive.
 
 A good response to such accusations is to simply state that it’s not constructive to say such things in generalities, remind them that organizations are inherently complex and do not speak with a “single, coherent voice”, and that you do not presume any control over others and are just trying to figure out question A. Then follow up by asking them to instead focus on concrete aspects of question A rather than un-actionable generalities.
 
